@@ -1,6 +1,24 @@
-.DS_Store
+# Python
 __pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node/JS (if you use React/Vite)
 node_modules/
-.terraform/
+dist/
+build/
+
+# Terraform
 *.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# macOS
+.DS_Store
+
+# Env
 .env
+.env.*
+
