@@ -6,6 +6,12 @@ import boto3
 REGION = os.getenv("AWS_REGION", "us-east-1")
 MODEL = os.getenv("BEDROCK_MODEL", "anthropic.claude-3-5-sonnet-20240620-v1:0")
 
+TOOL_MAP = {
+    "dining": "DiningTool",
+    "events": "EventsTool",
+    "parking": "ParkingTool"
+}
+
 SYSTEM_PROMPT = """
     You are an intent classifier + argument extractor for a UTD Campus Assistant.
 
@@ -37,7 +43,6 @@ def classify_with_bedrock(message: str):
     )
 
     result = json.loads(response["body"].read())
-    print("Result from Bedrock (invoke_model):", result)
 
     # Extract raw text from model output
     output = ""
@@ -68,7 +73,26 @@ def lambda_handler(event, context):
         if not message:
             return _response(400, {"error": "Message is required."})
 
+        # ---- Classification step ----
         intent, args = classify_with_bedrock(message)
+
+        # ---- NEW: Invoke correct tool if intent matches ----
+        if intent in TOOL_MAP:
+            lambda_client = boto3.client("lambda")
+
+            tool_payload = {
+                "intent": intent,
+                "tool_args": args
+            }
+
+            tool_resp = lambda_client.invoke(
+                FunctionName=TOOL_MAP[intent],
+                InvocationType="RequestResponse",
+                Payload=json.dumps(tool_payload)
+            )
+
+            tool_data = json.loads(tool_resp["Payload"].read())
+            return _response(200, tool_data)
 
         return _response(200, {"intent": intent, "tool_args": args})
 
