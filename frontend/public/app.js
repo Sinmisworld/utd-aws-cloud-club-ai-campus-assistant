@@ -23,7 +23,12 @@ function addMessage(role, text) {
 
   const bubble = document.createElement("div");
   bubble.className = "message " + role;
-  bubble.textContent = text;
+
+  if (role === "assistant" && typeof marked !== "undefined") {
+    bubble.innerHTML = marked.parse(text);
+  } else {
+    bubble.textContent = text;
+  }
 
   row.appendChild(bubble);
   chatEl.appendChild(row);
@@ -135,7 +140,12 @@ async function sendMessage(text) {
   try {
     const answer = await postMessage(message);
     const bubbles = chatEl.querySelectorAll(".message.assistant");
-    bubbles[bubbles.length - 1].textContent = answer;
+    const lastBubble = bubbles[bubbles.length - 1];
+    if (typeof marked !== "undefined") {
+      lastBubble.innerHTML = marked.parse(answer);
+    } else {
+      lastBubble.textContent = answer;
+    }
     setStatus("Done");
   } catch (error) {
     const bubbles = chatEl.querySelectorAll(".message.assistant");

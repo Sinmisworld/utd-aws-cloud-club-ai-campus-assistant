@@ -205,7 +205,6 @@ h1 {
 
 .message {
   max-width: 78%;
-  white-space: pre-wrap;
   word-break: break-word;
   padding: 10px 12px;
   border-radius: 14px;
@@ -218,9 +217,32 @@ h1 {
   background: var(--bg-elevated);
 }
 
+.message.assistant p {
+  margin: 0 0 10px 0;
+}
+
+.message.assistant p:last-child {
+  margin-bottom: 0;
+}
+
+.message.assistant ul, 
+.message.assistant ol {
+  margin: 8px 0;
+  padding-left: 20px;
+}
+
+.message.assistant li {
+  margin-bottom: 4px;
+}
+
+.message.assistant strong {
+  color: var(--text-primary);
+}
+
 .message.user {
   background: rgba(38, 208, 124, 0.18);
   border-color: rgba(38, 208, 124, 0.38);
+  white-space: pre-wrap;
 }
 
 .composer {
