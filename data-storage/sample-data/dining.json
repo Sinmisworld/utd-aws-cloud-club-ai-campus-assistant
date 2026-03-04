@@ -1,0 +1,2011 @@
+[
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Engineering and Computer Science West (ECSW)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 9:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "Tradecraft Coffee & Tea Bar",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Parking Structure 3 (PS3)",
+    "Shop_name": "Einstein Bros Bagels",
+    "Boost": "Yes",
+    "timings": "7:30 a.m. - 4:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Parking Structure 3 (PS3)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "9:00 a.m. - 12:00 a.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Sciences Building (SCI)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "9:00 a.m. - 3:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Buffalo Wild Wings",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 6:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 6:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Crave",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Firehouse Subs",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Food Truck Park",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Kalachandji’s Express",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Panda Express",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 6:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "8:00 a.m. - 9:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Tea Co",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 5:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "The Halal Shack",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Visitor Center and University Bookstore (VCB)",
+    "Shop_name": "Bookstore Coffee Shop",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 2:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "12:00 a.m. - 1:00 a.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "7:00 a.m. - 10:00 a.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "12:00 a.m. - 1:00 a.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Sciences Building (SCI)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "9:00 a.m. - 2:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Buffalo Wild Wings",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 4:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 5:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Crave",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 5:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Firehouse Subs",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Kalachandji’s Express",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Panda Express",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "8:00 a.m. - 7:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Tea Co",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "The Halal Shack",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "3:00 p.m. - 10:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "10:30 a.m. - 3:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "3:00 p.m. - 10:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 7:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Tuesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Engineering and Computer Science West (ECSW)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 9:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "Tradecraft Coffee & Tea Bar",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Parking Structure 3 (PS3)",
+    "Shop_name": "Einstein Bros Bagels",
+    "Boost": "Yes",
+    "timings": "7:30 a.m. - 4:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Parking Structure 3 (PS3)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "9:00 a.m. - 12:00 a.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Sciences Building (SCI)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "9:00 a.m. - 3:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Buffalo Wild Wings",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 6:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 6:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Crave",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Firehouse Subs",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Food Truck Park",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Kalachandji’s Express",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Panda Express",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 6:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "8:00 a.m. - 9:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Tea Co",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 5:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "The Halal Shack",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Visitor Center and University Bookstore (VCB)",
+    "Shop_name": "Bookstore Coffee Shop",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 2:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "12:00 a.m. - 1:00 a.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "7:00 a.m. - 10:00 a.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "12:00 a.m. - 1:00 a.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Sciences Building (SCI)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "9:00 a.m. - 2:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Buffalo Wild Wings",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 4:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 5:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Crave",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 5:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Firehouse Subs",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Kalachandji’s Express",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Panda Express",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "8:00 a.m. - 7:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Tea Co",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "The Halal Shack",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "3:00 p.m. - 10:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "10:30 a.m. - 3:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "3:00 p.m. - 10:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 7:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Wednesday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Engineering and Computer Science West (ECSW)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 9:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "Tradecraft Coffee & Tea Bar",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Parking Structure 3 (PS3)",
+    "Shop_name": "Einstein Bros Bagels",
+    "Boost": "Yes",
+    "timings": "7:30 a.m. - 4:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Parking Structure 3 (PS3)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "9:00 a.m. - 12:00 a.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Sciences Building (SCI)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "9:00 a.m. - 3:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Buffalo Wild Wings",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 6:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 6:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Crave",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Firehouse Subs",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Food Truck Park",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Kalachandji’s Express",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Panda Express",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 6:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "8:00 a.m. - 9:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Tea Co",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 5:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "The Halal Shack",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Visitor Center and University Bookstore (VCB)",
+    "Shop_name": "Bookstore Coffee Shop",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 2:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "12:00 a.m. - 1:00 a.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "7:00 a.m. - 10:00 a.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "12:00 a.m. - 1:00 a.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Sciences Building (SCI)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "9:00 a.m. - 2:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Buffalo Wild Wings",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 4:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 5:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Crave",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 5:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Firehouse Subs",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Kalachandji’s Express",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Panda Express",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "8:00 a.m. - 7:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Tea Co",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "The Halal Shack",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "3:00 p.m. - 10:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "10:30 a.m. - 3:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "3:00 p.m. - 10:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 7:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Thursday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Engineering and Computer Science West (ECSW)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 9:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "Tradecraft Coffee & Tea Bar",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Parking Structure 3 (PS3)",
+    "Shop_name": "Einstein Bros Bagels",
+    "Boost": "Yes",
+    "timings": "7:30 a.m. - 4:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Parking Structure 3 (PS3)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "9:00 a.m. - 12:00 a.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Sciences Building (SCI)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "9:00 a.m. - 3:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Buffalo Wild Wings",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 6:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 6:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Crave",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Firehouse Subs",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Food Truck Park",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Kalachandji’s Express",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Panda Express",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 6:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "8:00 a.m. - 9:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Tea Co",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 5:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "The Halal Shack",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Visitor Center and University Bookstore (VCB)",
+    "Shop_name": "Bookstore Coffee Shop",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 2:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "12:00 a.m. - 1:00 a.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "7:00 a.m. - 10:00 a.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "12:00 a.m. - 1:00 a.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Sciences Building (SCI)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "9:00 a.m. - 2:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Buffalo Wild Wings",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 4:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 5:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Crave",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 5:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Firehouse Subs",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Kalachandji’s Express",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Panda Express",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "8:00 a.m. - 7:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Tea Co",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "The Halal Shack",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "3:00 p.m. - 10:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "10:30 a.m. - 3:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "3:00 p.m. - 10:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 7:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Friday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Engineering and Computer Science West (ECSW)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 9:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "Tradecraft Coffee & Tea Bar",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Parking Structure 3 (PS3)",
+    "Shop_name": "Einstein Bros Bagels",
+    "Boost": "Yes",
+    "timings": "7:30 a.m. - 4:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Parking Structure 3 (PS3)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "9:00 a.m. - 12:00 a.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Sciences Building (SCI)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "9:00 a.m. - 3:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Buffalo Wild Wings",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 6:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 6:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Crave",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Firehouse Subs",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Food Truck Park",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Kalachandji’s Express",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Panda Express",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 6:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "8:00 a.m. - 9:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Tea Co",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 5:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "The Halal Shack",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Visitor Center and University Bookstore (VCB)",
+    "Shop_name": "Bookstore Coffee Shop",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 2:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "12:00 a.m. - 1:00 a.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "7:00 a.m. - 10:00 a.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "12:00 a.m. - 1:00 a.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Sciences Building (SCI)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "9:00 a.m. - 2:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Buffalo Wild Wings",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 4:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 5:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Crave",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 5:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Firehouse Subs",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Kalachandji’s Express",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Panda Express",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "8:00 a.m. - 7:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Tea Co",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "The Halal Shack",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "3:00 p.m. - 10:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "10:30 a.m. - 3:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "3:00 p.m. - 10:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 7:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Saturday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Engineering and Computer Science West (ECSW)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 9:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "Tradecraft Coffee & Tea Bar",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Parking Structure 3 (PS3)",
+    "Shop_name": "Einstein Bros Bagels",
+    "Boost": "Yes",
+    "timings": "7:30 a.m. - 4:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Parking Structure 3 (PS3)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "9:00 a.m. - 12:00 a.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Sciences Building (SCI)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "9:00 a.m. - 3:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Buffalo Wild Wings",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 6:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 6:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Crave",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Firehouse Subs",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Food Truck Park",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Kalachandji’s Express",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Panda Express",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 6:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "8:00 a.m. - 9:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Tea Co",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 5:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "The Halal Shack",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Visitor Center and University Bookstore (VCB)",
+    "Shop_name": "Bookstore Coffee Shop",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 2:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "12:00 a.m. - 1:00 a.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "7:00 a.m. - 10:00 a.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "12:00 a.m. - 1:00 a.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Sciences Building (SCI)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "9:00 a.m. - 2:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Buffalo Wild Wings",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 4:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 5:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Crave",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 5:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Firehouse Subs",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Kalachandji’s Express",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Panda Express",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "8:00 a.m. - 7:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Tea Co",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "The Halal Shack",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "3:00 p.m. - 10:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "10:30 a.m. - 3:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "3:00 p.m. - 10:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 7:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Sunday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Engineering and Computer Science West (ECSW)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 9:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "Tradecraft Coffee & Tea Bar",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Parking Structure 3 (PS3)",
+    "Shop_name": "Einstein Bros Bagels",
+    "Boost": "Yes",
+    "timings": "7:30 a.m. - 4:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Parking Structure 3 (PS3)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "9:00 a.m. - 12:00 a.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Sciences Building (SCI)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "9:00 a.m. - 3:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Buffalo Wild Wings",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 6:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 6:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Crave",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Firehouse Subs",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Food Truck Park",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Kalachandji’s Express",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Panda Express",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 6:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "8:00 a.m. - 9:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Tea Co",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 5:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "The Halal Shack",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 8:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Visitor Center and University Bookstore (VCB)",
+    "Shop_name": "Bookstore Coffee Shop",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 2:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "12:00 a.m. - 1:00 a.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "7:00 a.m. - 10:00 a.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "12:00 a.m. - 1:00 a.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Naveen Jindal School of Management (JSOM)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Sciences Building (SCI)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "9:00 a.m. - 2:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Buffalo Wild Wings",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 4:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "8:00 a.m. - 5:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Crave",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 5:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Firehouse Subs",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 2:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Kalachandji’s Express",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Panda Express",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "8:00 a.m. - 7:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "Tea Co",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Student Union (SU)",
+    "Shop_name": "The Halal Shack",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Comet Pi",
+    "Boost": "Yes",
+    "timings": "3:00 p.m. - 10:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Dining Hall West",
+    "Boost": "Yes",
+    "timings": "10:30 a.m. - 3:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "The Market",
+    "Boost": "No",
+    "timings": "3:00 p.m. - 10:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 7:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Chick-Fil-A",
+    "Boost": "No",
+    "timings": "11:00 a.m. - 3:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Starbucks",
+    "Boost": "Yes",
+    "timings": "10:00 a.m. - 3:00 p.m.",
+    "days_open": "Monday"
+  },
+  {
+    "buildingName": "Andromeda Hall (RHA)",
+    "Shop_name": "Taco Bell Cantina",
+    "Boost": "Yes",
+    "timings": "11:00 a.m. - 12:00 a.m.",
+    "days_open": "Monday"
+  }
+]
